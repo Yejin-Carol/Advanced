@@ -1,0 +1,11 @@
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\bin\Debug\Delegate_Lamda.exe.config
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\bin\Debug\Delegate_Lamda.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\bin\Debug\Delegate_Lamda.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.csproj.AssemblyReference.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.Properties.Resources.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.csproj.GenerateResource.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.csproj.CoreCompileInputs.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.Form1.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\Delegate_Lamda\obj\Debug\Delegate_Lamda.Form2.resources

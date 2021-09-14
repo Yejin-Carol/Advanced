@@ -1,0 +1,9 @@
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\bin\Debug\StudyDataGrid_API.exe.config
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\bin\Debug\StudyDataGrid_API.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\bin\Debug\StudyDataGrid_API.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\obj\Debug\StudyDataGrid_API.Form1.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\obj\Debug\StudyDataGrid_API.Properties.Resources.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\obj\Debug\StudyDataGrid_API.csproj.GenerateResource.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\obj\Debug\StudyDataGrid_API.csproj.CoreCompileInputs.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\obj\Debug\StudyDataGrid_API.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\StudyDataGrid_API\StudyDataGrid_API\obj\Debug\StudyDataGrid_API.pdb

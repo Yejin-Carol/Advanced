@@ -1,0 +1,10 @@
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\bin\Debug\WritelogFile.exe.config
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\bin\Debug\WritelogFile.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\bin\Debug\WritelogFile.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.csproj.AssemblyReference.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.Form1.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.Properties.Resources.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.csproj.GenerateResource.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.csproj.CoreCompileInputs.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\Delegate_and_lamda\WritelogFile\obj\Debug\WritelogFile.pdb
