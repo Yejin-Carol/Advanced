@@ -1,0 +1,10 @@
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\bin\Debug\KakaoApiMapView.exe.config
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\bin\Debug\KakaoApiMapView.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\bin\Debug\KakaoApiMapView.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.csproj.AssemblyReference.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.Form1.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.Properties.Resources.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.csproj.GenerateResource.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.csproj.CoreCompileInputs.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\KakaoApiMapView\KakaoApiMapView\obj\Debug\KakaoApiMapView.pdb

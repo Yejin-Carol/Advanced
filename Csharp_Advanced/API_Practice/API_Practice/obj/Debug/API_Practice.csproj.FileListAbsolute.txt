@@ -1,0 +1,11 @@
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.Form1.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.Properties.Resources.resources
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.csproj.GenerateResource.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.csproj.CoreCompileInputs.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\bin\Debug\API_Practice.exe.config
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\bin\Debug\API_Practice.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\bin\Debug\API_Practice.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.csproj.AssemblyReference.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\API_Practice\API_Practice\obj\Debug\API_Practice.Form2.resources

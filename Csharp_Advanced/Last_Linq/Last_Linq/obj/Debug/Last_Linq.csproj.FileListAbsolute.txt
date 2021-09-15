@@ -1,0 +1,7 @@
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\bin\Debug\Last_Linq.exe.config
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\bin\Debug\Last_Linq.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\bin\Debug\Last_Linq.pdb
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\obj\Debug\Last_Linq.csproj.AssemblyReference.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\obj\Debug\Last_Linq.csproj.CoreCompileInputs.cache
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\obj\Debug\Last_Linq.exe
+C:\Users\feliz\OneDrive\Documents\CSHARP\Last_Linq\Last_Linq\obj\Debug\Last_Linq.pdb
